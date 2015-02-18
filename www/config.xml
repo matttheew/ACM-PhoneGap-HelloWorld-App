@@ -9,7 +9,7 @@
     <name>Hello World</name>
 
     <description>
-        A fun social app where users mimic the faces of popular emojis!
+        A simple hello world phonegap built app.
     </description>
 
     <!--<author href="http://phonegap.com" email="support@phonegap.com">
